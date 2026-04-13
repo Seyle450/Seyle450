@@ -1,16 +1,25 @@
-## Hi there 👋
+# Elyes Ferchichi – Web Developer
 
-<!--
-**Seyle450/Seyle450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angehender Webentwickler mit Fokus auf Frontend & Shopify.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+HTML · CSS · JavaScript · Shopify (Liquid) · Python (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Erfahrung
+**Shopify Praktikum (6 Monate - 2 Unternehmen)**  
+- Mitarbeit an echten Shopify-Projekten  
+- Frontend-Anpassungen (HTML, CSS, Liquid)  
+- Bugfixes & kleinere Features  
+
+## 🚀 Projekte
+**Portfolio Website**  
+👉 https://seyle450.github.io  
+
+**Shopify Projekte (Praktikum)**  
+- Mitarbeit an mehreren Stores  
+- Fokus: Styling, Anpassungen, Bugfixes  
+- Teamprojekte  
+
+## 📫 Kontakt
+- Email: elyes.ferchichi@icloud.com  
+- LinkedIn: https://www.linkedin.com/in/elyes-ferchichi/
