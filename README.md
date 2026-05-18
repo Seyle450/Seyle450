@@ -12,11 +12,11 @@ Mein Fokus lag dabei auf Frontend-Anpassungen, insbesondere an Produktseiten, so
 
 ## Projekte
 Portfolio Website  
-https://seyle450.github.io  
+https://seyle450.github.io/portfolio
 
 Zusätzlich habe ich im Rahmen meines Praktikums an mehreren Shopify Stores mitgearbeitet.
 Dabei habe ich vor allem Styling-Anpassungen umgesetzt und bestehende Komponenten weiterentwickelt.
 
 ## Kontakt
 elyes.ferchichi@icloud.com  
-https://www.linkedin.com/in/elyes-ferchichi/
+https://www.linkedin.com/in/seyle/
