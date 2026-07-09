@@ -12,7 +12,7 @@ Mein Fokus lag dabei auf Frontend-Anpassungen, insbesondere an Produktseiten, so
 
 ## Projekte
 Portfolio Website  
-portfolio.elyesferchichi.com
+https://portfolio.elyesferchichi.com
 
 Zusätzlich habe ich im Rahmen meines Praktikums an mehreren Shopify Stores mitgearbeitet.
 Dabei habe ich vor allem Styling-Anpassungen umgesetzt und bestehende Komponenten weiterentwickelt.
